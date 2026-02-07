@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+pyyaml
+streamlit
+ensemble-boxes
